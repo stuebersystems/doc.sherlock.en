@@ -14,7 +14,7 @@ This is the English documentation for [CONFIRE SHERLOCK](https://sherlock.stuebe
 
 4. Enter the command `python --version` and `pip --version` to check the Python installation. In both cases a version number should appear as an output in the command prompt.
 
-5. Enter the command `pip install mkdocs` to insteall the Python-Package MkDocs.
+5. Enter the command `pip install mkdocs` to install the Python-Package MkDocs.
 
 6. Final test: Enter the command `mkdocs --version`. A version nummer in the command prompt will let you know if everything has been installed correctly.
 
