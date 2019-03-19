@@ -4,31 +4,31 @@
 
 This is the German documentation for [CONFIRE SHERLOCK](https://sherlock.stueber.co.uk). The documentation is Open Source and we have implemented it using [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). Push-Requests in the master-branch are triggered in [AppVeyor](https://www.appveyor.com) so that each change is published automatically.
 
-## MkDocs unter Windows installieren
+## Install MkDocs for Windows
 
-1. Installiere [Python](https://www.python.org). Gehe dazu auf die [Python-Download-Seite](https://www.python.org/downloads/) und lade Dir die aktuellste Version für Windows herunter. Für die Version 3.7.2 wäre dies beispielsweise der Link [Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe).
+1. Install [Python](https://www.python.org). Go to the [Python downloads page](https://www.python.org/downloads/) and download the latest version for Windows. For example, for Version 3.7.2 this would be the link: [Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe).
 
-2. Starte das Installationspaket und beantworte alle Fragen.
+2. Start the installer and follow the on-screen instructions.
 
-3. Öffne die Eingabeaufforderung als Administrator.
+3. Run the command prompt as Administrator.
 
-4. Tippe die Befehle `python --version` und `pip --version` ein, um die Python-Installation zu überprüfen. In beiden Fällen sollte eine Versionsnummer als Ausgabe in der Eingabeaufforderung erscheinen.
+4. Enter the command `python --version` and `pip --version` to check the Python installation. In both cases a version number should appear as an output in the command prompt.
 
-5. Tippe jetzt den Befehl `pip install mkdocs`, um das Python-Package MkDocs zu installieren.
+5. Enter the command `pip install mkdocs` to insteall the Python-Package MkDocs.
 
-6. Ein letzter Test: Tippe den Befehl `mkdocs --version` ein. Eine Versionsnummer in der Eingabeaufforderung zeigt Dir erneut, dass alles korrekt installiert wurde.
+6. Final test: Enter the command `mkdocs --version`. A version nummer in the command prompt will let you know if everything has been installed correctly.
 
-## Repository klonen
+## Clone Repository
 
-Dieses Repository ist ein Git-Repository. Um das Repository auf deinem lokalen Computer zu klonen, benötigst Du einen Git-Client. Entweder Du installierst Dir [Git für Windows](https://gitforwindows.org/) und arbeitest mit der Eingabeaufforderung, oder Du installierst Dir eine der zahlreichen GUIs. Zu empfehlen wären [GitHub Desktop](https://desktop.github.com) oder [SourceTree](https://www.sourcetreeapp.com).
+This repository is a Git-Repository. To clone the repository on a local commputer you will need a Git client. Either install [Git for Windows](https://gitforwindows.org/) and use the command prompt or install one of the many GUIs. We recommend [GitHub Desktop](https://desktop.github.com) or [SourceTree](https://www.sourcetreeapp.com).
 
-1. Erstelle einen lokalen Ordner für die Dokumentation, z.B. `c:\docs\sherlock`.
+1. Create a local directory for the documentation e.g. `c:\docs\sherlock`.
 
-2. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\sherlock`.
+2. Open the command prompt and change to directory `c:\docs\sherlock`.
 
-3. Tippe den Befehl `git clone https://github.com/stuebersystems/doc.sherlock.de.git` ein, um das Repository zu klonen.
+3. Enter the command `git clone https://github.com/stuebersystems/doc.sherlock.de.git` to clone the repository.
 
-## Repository als Zip-Archiv herunterladen
+## Download Repository as Zip Archive
 
 Willst du mit Git erstmal nichts zu tun haben, kannst Du das Repository auch als Zip-Archiv herunterladen:
 
