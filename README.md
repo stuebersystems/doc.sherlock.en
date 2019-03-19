@@ -8,7 +8,7 @@ This is the German documentation for [CONFIRE SHERLOCK](https://sherlock.stueber
 
 1. Install [Python](https://www.python.org). Go to the [Python downloads page](https://www.python.org/downloads/) and download the latest version for Windows. For example, for Version 3.7.2 this would be the link: [Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe).
 
-2. Start the installer and follow the on-screen instructions.
+2. Launch the installer and follow the on-screen instructions.
 
 3. Run the command prompt as Administrator.
 
@@ -30,35 +30,35 @@ This repository is a Git-Repository. To clone the repository on a local commpute
 
 ## Download Repository as Zip Archive
 
-Willst du mit Git erstmal nichts zu tun haben, kannst Du das Repository auch als Zip-Archiv herunterladen:
+If you don't want to use Git you can even download the repository as Zip Archive:
 
-1. Öffne die URL `https://github.com/stuebersystems/doc.sherlock.de` in deinem Webbrowser
+1. Open the URL `https://github.com/stuebersystems/doc.sherlock.de` in your web browser
 
-2. Klicke auf die Schaltfläche `Clone or download` und dann auf `Download ZIP`.
+2. Click on the `Clone or download` button then select `Download ZIP`.
 
-3. Entpacke das Zip-Archiv in einen lokalen Ordner Deiner Wahl, z.B. `c:\docs\sherlock`.
+3. Exract the Zip Archive to any local folder, e.g. `c:\docs\sherlock`.
 
-## Mit MkDocs arbeiten
+##  Using MkDocs
 
-Du hast Python und das Package MkDocs installiert, Du hast dieses Repository geklont oder als Zip-Archiv heruntergeladen. Jetzt kannst Du die Dokumentation lokal auf deinem Rechner generieren:
+You have installed Python and the MkDocs package, you have cloned this repository or downloaded as a Zip Archive. Now you can generate the documentation locally on your computer:
 
-1. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\sherlock`.
+1. Start the command prompt and change to the directory `c:\docs\sherlock`.
 
-2. Tippe den Befehl `mkdocs build` ein. Die CONFIRE SHERLOCK Dokumentation wird neu generiert.
+2. Enter the command `mkdocs build`. CONFIRE SHERLOCK Dokumentation will be regenerated.
 
-3. Um Dir das Ergebnis anzeigen zu lassen, tippe den Befehl `mkdocs serve` ein und öffne die Url `http://127.0.0.1:8000` in Deinem Webbrowser.
+3. To display the result, enter the command `mkdocs serve` and open the URL `http://127.0.0.1:8000` in your Web browser.
 
-Das Inhaltsverzeichnis findest Du in der Datei `mkdocs.yml`, die einzelnen Kapitel im Unterordner `docs`. 
+The table of contents can be found in the `mkdocs.yml` file and the individual chapters are in the `docs` subdirectory. 
 
-## Weitere Informationen
+## Further Informationen
 
-+ [Alles zum Thema Git](https://git-scm.com/book/de/v2)
++ [Git - All you need to know](https://git-scm.com/book/de/v2)
 + [MkDocs Overview](https://www.mkdocs.org/#overview)
 
-## Kann ich mithelfen?
+## Can I help?
 
-Ja, sehr gerne. Der beste Weg mitzuhelfen ist es, Rückmeldung per Issue-Tracker zu geben und/oder Korrekturen per Pull-Request zu übermitteln.
+Yes, that would be much appreciated. The best way to help is to post a response via the Issue Tracker and/or submit corrections via a Pull Request.
 
-## Code of conduct (Verhaltensregeln)
+## Code of Conduct
 
-In diesem Projekt wurde der [STÜBER SYSTEMS Code of conduct](https://www.stueber.de/code-of-conduct.php) übernommen.
+The [STÜBER SYSTEMS Code of Conduct](https://www.stueber.co.uk/code-of-conduct.php) was adopted in this project.
