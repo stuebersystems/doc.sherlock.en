@@ -2,7 +2,7 @@
 
 # CONFIRE SHERLOCK Documentation
 
-Dies ist die deutsche Dokumentation zu [CONFIRE SHERLOCK](https://sherlock.stueber.de). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert. Push-Requests im master-branch werden in [AppVeyor](https://www.appveyor.com) getriggert, so dass jede Änderung automatisch veröffentlicht wird.
+This is the German documentation for [CONFIRE SHERLOCK](https://sherlock.stueber.co.uk). The documentation is Open Source and we have implemented it using [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). Push-Requests in the master-branch are triggered in [AppVeyor](https://www.appveyor.com) so that each change is published automatically.
 
 ## MkDocs unter Windows installieren
 
