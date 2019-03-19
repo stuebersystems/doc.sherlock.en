@@ -6,7 +6,7 @@ This is the English documentation for [CONFIRE SHERLOCK](https://sherlock.stuebe
 
 ## Install MkDocs for Windows
 
-1. Install [Python](https://www.python.org). Go to the [Python downloads](https://www.python.org/downloads/) page and download the latest version for Windows. For example, for Version 3.7.2 this would be the link: [Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe).
+1. Install [Python](https://www.python.org). Go to the [Python downloads](https://www.python.org/downloads/) page and download the latest version for Windows. For example, for version 3.7.2 this would be the link: [Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe).
 
 2. Launch the installer and follow the on-screen instructions.
 
@@ -14,13 +14,13 @@ This is the English documentation for [CONFIRE SHERLOCK](https://sherlock.stuebe
 
 4. Enter the command `python --version` and `pip --version` to check the Python installation. In both cases a version number should appear as an output in the command prompt.
 
-5. Enter the command `pip install mkdocs` to install the Python-Package MkDocs.
+5. Enter the command `pip install mkdocs` to install the MkDocs Python package.
 
 6. Final test: Enter the command `mkdocs --version`. A version nummer in the command prompt will let you know if everything has been installed correctly.
 
 ## Clone Repository
 
-This repository is a Git-Repository. To clone the repository on a local commputer you will need a Git client. Either install [Git for Windows](https://gitforwindows.org/) and use the command prompt or install one of the many GUIs. We recommend [GitHub Desktop](https://desktop.github.com) or [SourceTree](https://www.sourcetreeapp.com).
+This repository is a Git repository. To clone the repository to a local commputer you will need a Git client. Either install [Git for Windows](https://gitforwindows.org/) and use the command prompt or install one of the many GUIs. We recommend [GitHub Desktop](https://desktop.github.com) or [SourceTree](https://www.sourcetreeapp.com).
 
 1. Create a local directory for the documentation e.g. `c:\docs\sherlock`.
 
@@ -30,17 +30,17 @@ This repository is a Git-Repository. To clone the repository on a local commpute
 
 ## Download Repository as Zip Archive
 
-If you don't want to use Git you can even download the repository as Zip Archive:
+If you don't want to use Git you can even download the repository as a Zip Archive:
 
 1. Open the URL `https://github.com/stuebersystems/doc.sherlock.de` in your web browser
 
 2. Click on the `Clone or download` button then select `Download ZIP`.
 
-3. Exract the Zip Archive to any local folder, e.g. `c:\docs\sherlock`.
+3. Extract the Zip Archive to a local folder, e.g. `c:\docs\sherlock`.
 
 ##  Using MkDocs
 
-You have installed Python and the MkDocs package, you have cloned this repository or downloaded as a Zip Archive. Now you can generate the documentation locally on your computer:
+You have installed Python and the MkDocs package, cloned the repository or downloaded it as a Zip Archive. Now you can generate the documentation locally on your computer:
 
 1. Start the command prompt and change to the directory `c:\docs\sherlock`.
 
