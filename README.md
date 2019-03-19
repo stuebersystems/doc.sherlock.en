@@ -26,13 +26,13 @@ This repository is a Git repository. To clone the repository to a local commpute
 
 2. Open the command prompt and change to directory `c:\docs\sherlock`.
 
-3. Enter the command `git clone https://github.com/stuebersystems/doc.sherlock.de.git` to clone the repository.
+3. Enter the command `git clone https://github.com/stuebersystems/doc.sherlock.en.git` to clone the repository.
 
 ## Download Repository as Zip Archive
 
 If you don't want to use Git you can even download the repository as a Zip Archive:
 
-1. Open the URL `https://github.com/stuebersystems/doc.sherlock.de` in your web browser
+1. Open the URL `https://github.com/stuebersystems/doc.sherlock.en` in your web browser
 
 2. Click on the `Clone or download` button then select `Download ZIP`.
 
@@ -52,7 +52,7 @@ The table of contents can be found in the `mkdocs.yml` file and the individual c
 
 ## Further Informationen
 
-+ [Git - All you need to know](https://git-scm.com/book/de/v2)
++ [Git - All you need to know](https://git-scm.com/book/en/v2)
 + [MkDocs Overview](https://www.mkdocs.org/#overview)
 
 ## Can I help?
