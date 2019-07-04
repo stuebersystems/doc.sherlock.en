@@ -44,7 +44,7 @@ You have installed Python and the MkDocs package, cloned the repository or downl
 
 1. Start the command prompt and change to the directory `c:\docs\sherlock`.
 
-2. Enter the command `mkdocs build`. CONFIRE SHERLOCK Dokumentation will be regenerated.
+2. Enter the command `mkdocs build`. CONFIRE SHERLOCK documentation will be regenerated.
 
 3. To display the result, enter the command `mkdocs serve` and open the URL `http://127.0.0.1:8000` in your Web browser.
 
