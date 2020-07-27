@@ -1,8 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/t0s34bkrdwvc9ouh?svg=true)](https://ci.appveyor.com/project/stueber/doc-sherlock-en)
-
 # CONFIRE SHERLOCK Documentation
 
-This is the English documentation for [CONFIRE SHERLOCK](https://sherlock.stueber.co.uk). The documentation is Open Source and we have implemented it using [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). Push Requests in the master branch are triggered in [AppVeyor](https://www.appveyor.com) so that each change is published automatically.
+This is the English documentation for [CONFIRE SHERLOCK](https://sherlock.stueber.co.uk). The documentation is Open Source and we have implemented it using [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). 
 
 ## Install MkDocs for Windows
 
@@ -14,7 +12,7 @@ This is the English documentation for [CONFIRE SHERLOCK](https://sherlock.stuebe
 
 4. Enter the command `python --version` and `pip --version` to check the Python installation. In both cases a version number should appear as an output in the command prompt.
 
-5. Enter the command `pip install mkdocs` to install the MkDocs Python package.
+5. Enter the command `pip install mkdocs mkdocs-material` to install the *MkDocs* Python package and the *Material for MkDocs* theme.
 
 6. Final test: Enter the command `mkdocs --version`. A version nummer in the command prompt will let you know if everything has been installed correctly.
 
@@ -40,7 +38,7 @@ If you don't want to use Git you can even download the repository as a Zip Archi
 
 ##  Using MkDocs
 
-You have installed Python and the MkDocs package, cloned the repository or downloaded it as a Zip Archive. Now you can generate the documentation locally on your computer:
+You have installed Python and MkDocs, cloned the repository or downloaded it as a Zip Archive. Now you can generate the documentation locally on your computer:
 
 1. Start the command prompt and change to the directory `c:\docs\sherlock`.
 
@@ -49,11 +47,6 @@ You have installed Python and the MkDocs package, cloned the repository or downl
 3. To display the result, enter the command `mkdocs serve` and open the URL `http://127.0.0.1:8000` in your Web browser.
 
 The table of contents can be found in the `mkdocs.yml` file and the individual chapters are in the `docs` subdirectory. 
-
-## Further Informationen
-
-+ [Git - All you need to know](https://git-scm.com/book/en/v2)
-+ [MkDocs Overview](https://www.mkdocs.org/#overview)
 
 ## Can I help?
 
