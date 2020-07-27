@@ -33,10 +33,10 @@ theme:
 # Legal links
 extra:
   legal:
-    - label: Impressum
-      link: https://twitter.com/squidfunk
-    - label: Datenschutz
-      link: https://twitter.com/squidfunk
+    - label: Imprint
+      link: https://www.stueber.co.uk/imprint.php
+    - label: Privacy
+      link: https://legal.stueber.co.uk/
 
 # Customization
 extra_css:
