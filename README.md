@@ -1,3 +1,5 @@
+![Deployment status](https://vsrm.dev.azure.com/stuebersystems/_apis/public/Release/badge/2cc87afa-9a3b-472b-8a3c-3eca48b22dd6/4/5)
+
 # CONFIRE SHERLOCK Documentation
 
 This is the English documentation for [CONFIRE SHERLOCK](https://sherlock.stueber.co.uk). The documentation is Open Source and we have implemented it using [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). 
