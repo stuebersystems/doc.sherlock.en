@@ -15,7 +15,7 @@ repo_url: 'https://github.com/stuebersystems/doc.sherlock.en'
 theme: 
     name: material
     custom_dir: overrides
-    language: de
+    language: en
     feature:
         - tabs
         - instant
@@ -36,7 +36,7 @@ extra:
     - label: Imprint
       link: https://www.stueber.co.uk/imprint.php
     - label: Privacy
-      link: https://legal.stueber.co.uk/
+      link: https://legal.stueber.co.uk/privacy.php
 
 # Customization
 extra_css:
